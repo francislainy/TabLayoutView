@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabLayoutView</string>
+
+    <string name="text_fragment_a">Esta e a Fragment A da Tab A</string>
+    <string name="text_fragment_b">Esta e a Fragment B da Tab B</string>
+
+    <string-array name="titles_tab">
+        <item>Tab A</item>
+        <item>Tab B</item>
+    </string-array>
+</resources>
